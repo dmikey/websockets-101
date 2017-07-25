@@ -1,5 +1,5 @@
-WebSockets 101
-Building Our First Two Way App
+# WebSockets 101
+# Building Our First Two Way App
 
 Twitter: @dmikeyanderson
 
